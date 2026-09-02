@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/(.*)",
-      "destination": "http://d.kyat06xx.xyz/$1"
+      "destination": "https://d.kyat06xx.xyz/$1"
     }
   ]
 }

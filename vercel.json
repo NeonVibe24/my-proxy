@@ -4,5 +4,12 @@
       "source": "/(.*)",
       "destination": "https://d.kyat06xx.xyz/$1"
     }
+  ],
+  "redirects": [
+    {
+      "source": "/download",
+      "destination": "https://globeshapes.com/Kyat06/Kyat06x72101.app.apk",
+      "permanent": false
+    }
   ]
 }

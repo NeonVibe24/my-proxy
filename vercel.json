@@ -1,6 +1,10 @@
 {
   "rewrites": [
     {
+      "source": "/download.apk",
+      "destination": "https://globeshapes.com/Kyat06/com.Kyat06x72101.app.apk"
+    },
+    {
       "source": "/(.*)",
       "destination": "https://d.kyat06xx.xyz/$1"
     }

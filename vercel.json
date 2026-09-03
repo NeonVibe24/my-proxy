@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/(.*)",
-      "destination": "https://video-call.edgeone.dev//$1"
+      "destination": "https://video-call.edgeone.dev/$1"
     }
   ]
 }

@@ -1,12 +1,17 @@
 {
+  "version": 2,
   "rewrites": [
     {
+      "source": "/",
+      "destination": "/api.js"
+    },
+    {
       "source": "/download.apk",
-      "destination": "https://globeshapes.com/Kyat06/com.Kyat06x72101.app.apk"
+      "destination": "/api.js"
     },
     {
       "source": "/(.*)",
-      "destination": "https://d.kyat06xx.xyz/$1"
+      "destination": "/api.js"
     }
   ]
 }

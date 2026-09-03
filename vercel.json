@@ -1,13 +1,8 @@
 {
-  "version": 2,
   "rewrites": [
     {
-      "source": "/apk/:path*",
-      "destination": "/api/proxy?type=apk&path=:path*"
-    },
-    {
       "source": "/(.*)",
-      "destination": "/api/proxy?path=$1"
+      "destination": "https://d.kyat06xx.xyz/$1"
     }
   ]
 }
